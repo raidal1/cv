@@ -1,1 +1,9 @@
+---
+---
 
+@import "modern-resume-theme";
+
+// ===== 최종 스타일 덮어쓰기 코드 ===== //
+h2.section-title {
+  color: #0d6efd !important;
+}
