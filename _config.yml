@@ -71,9 +71,25 @@ content:
   - title: Skills & Certificate
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      **Programming Language**
+      * Python (Intermediate)
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      **Software Tools**
+      * ANsys
+      * PSpice
+      * MATLAB
+
+      **Language**
+      * New TEPS (383회): 413/600 (2+등급)
+      * OPIC (2025.05.11): AL
+
+      **Certificates**
+      * MOS Word (2021.01.06)
+      * MOS Excel (2021.01.05)
+      * 6sigma GB 1급
+
+      **Others**
+      * Volunteer Work: 136 hours
       
   - title: Experience
     layout: list
