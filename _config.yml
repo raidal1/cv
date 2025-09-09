@@ -76,7 +76,7 @@ content:
 
       **EDA & Simulation Tools**
       * Cadence Virtuoso & Xilinx Vivado
-      * ANsys
+      * ANSYS
       * PSpice
       * MATLAB
 
@@ -93,20 +93,28 @@ content:
       * Volunteer Work: 136 hours
       
   - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: FEM (Frontier Electrical Machine) Lab
-        sub_title: Undergraduate Research Student
-        caption: 2025.03 ~ Present
-        quote: >
-          Researched modeling and control simulations for next-generation electrical machines (motors).
-      - layout: right
-        title: LG Aimers
-        sub_title: Program Participant
-        caption: 2025.07.01 ~ 2025.08.25
-        quote: >
-          Completed Python-based AI/Machine Learning training and conducted a practical data analysis project.
+    layout: text
+    content: |
+      <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 2em;">
+        <div>
+          <h4 style="margin: 0 0 0.25em 0;">FEM (Frontier Electrical Machine) Lab</h4>
+          <p style="margin: 0; font-style: italic;">Undergraduate Research Student</p>
+          <p style="margin-top: 0.75em; color: #555;">Researched modeling and control simulations for next-generation electrical machines (motors).</p>
+        </div>
+        <div style="text-align: right; min-width: 150px;">
+          <span>2025.03 ~ Present</span>
+        </div>
+      </div>
+      <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+        <div>
+          <h4 style="margin: 0 0 0.25em 0;">LG Aimers</h4>
+          <p style="margin: 0; font-style: italic;">Program Participant</p>
+          <p style="margin-top: 0.75em; color: #555;">Completed Python-based AI/Machine Learning training and conducted a practical data analysis project.</p>
+        </div>
+        <div style="text-align: right; min-width: 150px;">
+          <span>2025.07.01 ~ 2025.08.25</span>
+        </div>
+      </div>
 
 # Footer
 footer_show_references: true
