@@ -29,7 +29,7 @@ darkmode: false
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
+# gtm: "GTM-0GTM-0000000"
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
 
@@ -49,7 +49,7 @@ content:
           <p style="margin: 0; font-style: italic;">Science and Engineering Track</p>
         </div>
         <div style="text-align: right; min-width: 150px;">
-          <span style="color:red;">Seoul, Gangnam-gu</span><br>
+          <span style="color:red;">Seoul, Gangnam</span><br>
           <span>2015.03 ~ 2018.02</span>
         </div>
       </div>
@@ -63,7 +63,7 @@ content:
           </ul>
         </div>
         <div style="text-align: right; min-width: 150px;">
-          <span style="color:red;">Seoul, Dongjak-gu</span><br>
+          <span style="color:red;">Seoul, Dongjak</span><br>
           <span>2020.03 ~ Present</span>
         </div>
       </div>
@@ -76,18 +76,18 @@ content:
 
       **EDA & Simulation Tools**
       * Cadence Virtuoso & Xilinx Vivado
-      * ANSYS
+      * ANsys
       * PSpice
       * MATLAB
 
       **Language**
-      * New TEPS (383회): 413/600 (2+등급)
+      * New TEPS (Test #383): 413/600 (Level 2+)
       * OPIC (2025.05.11): AL
 
       **Certificates**
       * MOS Word (2021.01.06)
       * MOS Excel (2021.01.05)
-      * 6sigma GB 1급
+      * Six Sigma Green Belt (GB) Level 1
 
       **Others**
       * Volunteer Work: 136 hours
@@ -96,14 +96,17 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: FEM (Frontier Electrical Machine) Lab
+        sub_title: Undergraduate Research Student
+        caption: 2025.03 ~ Present
         quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
+          Researched modeling and control simulations for next-generation electrical machines (motors).
+      - layout: right
+        title: LG Aimers
+        sub_title: Program Participant
+        caption: 2025.07.01 ~ 2025.08.25
+        quote: >
+          Completed Python-based AI/Machine Learning training and conducted a practical data analysis project.
 
 # Footer
 footer_show_references: true
