@@ -43,11 +43,12 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: left
         title: Whimoon High School
         sub_title: Science and Engineering Track
         caption: 2015.03 ~ 2018.02
-      - layout: top-right
+      - layout: left
+        border: weak
         title: Chung-Ang University
         sub_title: Electronic and Electrical Engineering
         caption: 2020.03 ~ Present
