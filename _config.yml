@@ -41,18 +41,24 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Education
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      **Whimoon High School** (2015.03 ~ 2018.02)
-      
-      *Science and Engineering Track*
-      
-      ---
-      **Chung-Ang University** (2020.03 ~ Present)
-      
-      *Electronic and Electrical Engineering*
-      
-      > **Overall GPA:** 3.18 / 4.5 &nbsp; | &nbsp; **Major GPA:** 3.23 / 4.5
+    layout: list
+    content:
+      - layout: top-right
+        title: Whimoon High School
+        sub_title: Science and Engineering Track
+        caption: |
+          Seoul, S.Korea
+          <br>
+          2015.03 ~ 2018.02
+      - layout: top-right
+        title: Chung-Ang University
+        sub_title: B.S. in Electronic and Electrical Engineering
+        caption: |
+          Seoul, S.Korea
+          <br>
+          2020.03 ~ Present
+        description: | # this will include new lines to allow paragraphs
+          * Total GPA of 3.18 / 4.5 (Credits taken: 130), Major GPA of 3.23 / 4.5 (Credits taken: 96)
 
   - title: Skills
     layout: text
