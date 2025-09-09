@@ -41,19 +41,18 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Education
-    layout: list
-    content:
-      - layout: left
-        title: Whimoon High School
-        sub_title: Science and Engineering Track
-        caption: 2015.03 ~ 2018.02
-      - layout: left
-        border: weak
-        title: Chung-Ang University
-        sub_title: Electronic and Electrical Engineering
-        caption: 2020.03 ~ Present
-        quote: >
-          Overall GPA: 3.18/4.5 (130 credits) | Major GPA: 3.23/4.5 (96 credits)
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      **Whimoon High School** (2015.03 ~ 2018.02)
+      
+      *Science and Engineering Track*
+      
+      ---
+      **Chung-Ang University** (2020.03 ~ Present)
+      
+      *Electronic and Electrical Engineering*
+      
+      > Overall GPA: 3.18/4.5 (130 credits) | Major GPA: 3.23/4.5 (96 credits)
 
   - title: Skills
     layout: text
