@@ -41,27 +41,34 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Whimoon High School
-        sub_title: Science and Engineering Track
-        caption: |
-          <span style="color:red;">Seoul, Gangnam-gu</span>
-          <br>
-          2015.03 ~ 2018.02
-      - layout: top-right
-        title: Chung-Ang University
-        sub_title: B.S. in Electronic and Electrical Engineering
-        caption: |
-          <span style="color:red;">Seoul, Dongjak-gu</span>
-          <br>
-          2020.03 ~ Present
-        description: | # this will include new lines to allow paragraphs
-          * **Total GPA:** 3.18 / 4.5 (130 credits)
-          * **Major GPA:** 3.23 / 4.5 (96 credits)
+    layout: text
+    content: |
+      <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 2em;">
+        <div>
+          <h4 style="margin: 0 0 0.25em 0;">Whimoon High School</h4>
+          <p style="margin: 0; font-style: italic;">Science and Engineering Track</p>
+        </div>
+        <div style="text-align: right; min-width: 150px;">
+          <span style="color:red;">Seoul, Gangnam-gu</span><br>
+          <span>2015.03 ~ 2018.02</span>
+        </div>
+      </div>
+      <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+        <div>
+          <h4 style="margin: 0 0 0.25em 0;">Chung-Ang University</h4>
+          <p style="margin: 0; font-style: italic;">B.S. in Electronic and Electrical Engineering</p>
+          <ul style="margin-top: 0.75em; padding-left: 20px; color: #555;">
+            <li><strong>Total GPA:</strong> 3.18 / 4.5 (130 credits)</li>
+            <li><strong>Major GPA:</strong> 3.23 / 4.5 (96 credits)</li>
+          </ul>
+        </div>
+        <div style="text-align: right; min-width: 150px;">
+          <span style="color:red;">Seoul, Dongjak-gu</span><br>
+          <span>2020.03 ~ Present</span>
+        </div>
+      </div>
 
-  - title: Skills
+  - title: Skills & Certificate
     layout: text
     content: | # this will include new lines to allow paragraphs
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
