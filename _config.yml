@@ -44,14 +44,14 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: **Whimoon High School**
+        title: Whimoon High School
         sub_title: Science and Engineering Track
         caption: |
           <span style="color:red;">Seoul, Gangnam-gu</span>
           <br>
           2015.03 ~ 2018.02
       - layout: top-right
-        title: **Chung-Ang University**
+        title: Chung-Ang University
         sub_title: B.S. in Electronic and Electrical Engineering
         caption: |
           <span style="color:red;">Seoul, Dongjak-gu</span>
