@@ -44,21 +44,22 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Whimoon High School
+        title: **Whimoon High School**
         sub_title: Science and Engineering Track
         caption: |
-          Seoul, S.Korea
+          <span style="color:red;">Seoul, Gangnam-gu</span>
           <br>
           2015.03 ~ 2018.02
       - layout: top-right
-        title: Chung-Ang University
+        title: **Chung-Ang University**
         sub_title: B.S. in Electronic and Electrical Engineering
         caption: |
-          Seoul, S.Korea
+          <span style="color:red;">Seoul, Dongjak-gu</span>
           <br>
           2020.03 ~ Present
         description: | # this will include new lines to allow paragraphs
-          * Total GPA of 3.18 / 4.5 (Credits taken: 130), Major GPA of 3.23 / 4.5 (Credits taken: 96)
+          * **Total GPA:** 3.18 / 4.5 (130 credits)
+          * **Major GPA:** 3.23 / 4.5 (96 credits)
 
   - title: Skills
     layout: text
