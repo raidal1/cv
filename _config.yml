@@ -68,14 +68,14 @@ content:
         </div>
       </div>
 
-  - title: Skills & Certificate
+  - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
       **Programming Language**
       * Python (Intermediate)
 
       **Software Tools**
-      * ANsys
+      * ANSYS
       * PSpice
       * MATLAB
 
