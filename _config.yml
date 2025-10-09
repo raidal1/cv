@@ -37,8 +37,7 @@ darkmode: false
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello! I am a senior at Chung-Ang University majoring in Electronic and Electrical Engineering. I am concentrating on semiconductor circuit development and the design and control of electric motor systems.
-
+  Hello! I am Minsu Kim, a senior in Electronic and Electrical Engineering at Chung-Ang University. I've built a strong understanding of hardware by first mastering the fundamentals of semiconductor circuit development and then advancing to the precision control of electric motor systems. With this foundation, I am now deepening my expertise in digital circuit design using Verilog HDL, with the goal of becoming a specialist in next-generation AI semiconductor design.
 content:
   - title: Education
     layout: text
