@@ -88,8 +88,7 @@ content:
       * MOS Excel (2021.01.05)
       * 6시그마 GB 1등급
 
-      **Others**
-      * Volunteer Work: 136 hours
+      
       
   - title: Experiences
     layout: text
@@ -101,14 +100,16 @@ content:
           <p style="margin-top: 0.75em; color: #555;">Researched modeling and control simulations for next-generation electrical machines (motors).</p>
         </div>
         <div style="text-align: right; min-width: 150px;">
-          <span>2025.03 ~ Present</span>
+          <span>2025.07 ~ 2025.08</span>
         </div>
       </div>
       <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 2em;">
         <div>
-          <h4 style="margin: 0 0 0.25em 0;">LG Aimers</h4>
-          <p style="margin: 0; font-style: italic;">Program Participant</p>
-          <p style="margin-top: 0.75em; color: #555;">Completed Python-based AI/Machine Learning training and conducted a practical data analysis project.</p>
+          <h4 style="margin: 0 0 0.25em 0;">KT AIVLE School</h4>
+          <p style="margin: 0; font-style: italic;">DX Consultant Track Trainee</p>
+          <p style="margin-top: 0.75em; color: #555;">ntensive training on Digital Transformation (DX) strategies and Data-driven problem solving using Python and statistical analysis.
+
+Cultivated a logical approach to identify process inefficiencies and propose data-backed solutions. Aiming to apply this "Consultant's Mindset" to optimize semiconductor design workflows and systematize verification processes.</p>
         </div>
         <div style="text-align: right; min-width: 150px;">
           <span>2025.07.01 ~ 2025.08.25</span>
