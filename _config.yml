@@ -37,7 +37,7 @@ darkmode: false
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello! I am Minsu Kim, a senior in Electronic and Electrical Engineering at Chung-Ang University. I've built a strong understanding of hardware by first mastering the fundamentals of semiconductor circuit development and then advancing to the precision control of electric motor systems. With this foundation, I am now deepening my expertise in digital circuit design using Verilog HDL, with the goal of becoming a specialist in next-generation AI semiconductor design.
+  Hello I am a Senior in Electronic & Electrical Engineering with a strong foundation in Digital Logic Design and ASIC Front-end flow using Verilog and Cadence tools. Distinctive for leveraging Python and Machine Learning as secondary tools to automate verification processes and optimize design efficiency. Also seeking to contribute to high-performance chip design by integrating domain expertise with a data-driven problem-solving approach.
 content:
   - title: Education
     layout: text
