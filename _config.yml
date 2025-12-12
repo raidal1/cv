@@ -37,7 +37,10 @@ darkmode: false
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello I am a Senior in Electronic & Electrical Engineering with a strong foundation in Digital Logic Design and ASIC Front-end flow using Verilog and Cadence tools. Distinctive for leveraging Python and Machine Learning as secondary tools to automate verification processes and optimize design efficiency. Also seeking to contribute to high-performance chip design by integrating domain expertise with a data-driven problem-solving approach.
+  Aspiring Digital Design Engineer empowered by Data Analytics & AI.
+  
+  Senior in Electronic & Electrical Engineering with a strong foundation in **Digital Logic Design** and **ASIC Front-end flow** using Verilog and Cadence tools. Distinctive for leveraging **Python and Machine Learning** as auxiliary tools to automate verification processes and optimize design efficiency. Seeking to contribute to high-performance chip design by integrating domain expertise with a data-driven problem-solving approach.
+
 content:
   - title: Education
     layout: text
@@ -48,7 +51,7 @@ content:
           <p style="margin: 0; font-style: italic;">Science and Engineering Track</p>
         </div>
         <div style="text-align: right; min-width: 150px;">
-          <span style="color:red;">Seoul, Gangnam</span><br>
+          <span>Seoul, Gangnam</span><br>
           <span>2015.03 ~ 2018.02</span>
         </div>
       </div>
@@ -62,7 +65,7 @@ content:
           </ul>
         </div>
         <div style="text-align: right; min-width: 150px;">
-          <span style="color:red;">Seoul, Dongjak</span><br>
+          <span>Seoul, Dongjak</span><br>
           <span>2020.03 ~ Present</span>
         </div>
       </div>
@@ -71,7 +74,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       **Programming Language**
-      * Python (Intermediate)
+      * Python (Pandas, NumPy, Matplotlib, Scikit-learn, PyTorch)
 
       **EDA & Simulation Tools**
       * Cadence Virtuoso & Xilinx Vivado
@@ -84,15 +87,29 @@ content:
       * OPIC (2025.05.11): AL
 
       **Certificates**
+      * Six Sigma Green Belt (Grade 1)
       * MOS Word (2021.01.06)
       * MOS Excel (2021.01.05)
-      * 6시그마 GB 1등급
 
       
       
   - title: Experiences
     layout: text
     content: |
+      <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 2em;">
+        <div>
+          <h4 style="margin: 0 0 0.25em 0;">KT AIVLE School</h4>
+          <p style="margin: 0; font-style: italic;">DX Consultant Track Trainee</p>
+          <p style="margin-top: 0.75em; color: #555;">
+          Acquired practical data analysis skills using <strong>Python (Pandas, NumPy)</strong> and implemented <strong>Machine Learning & Deep Learning</strong> models to solve industrial problems.<br><br>
+          Cultivated a <strong>DX (Digital Transformation) mindset</strong> to identify inefficiencies and propose <strong>data-driven solutions</strong>, aiming to apply these analytical skills to <strong>optimize semiconductor design workflows</strong>.
+          </p>
+        </div>
+        <div style="text-align: right; min-width: 150px;">
+          <span>2025.09 ~ Present</span>
+        </div>
+      </div>
+
       <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 2em;">
         <div>
           <h4 style="margin: 0 0 0.25em 0;">FEM (Frontier Electrical Machine) Lab</h4>
@@ -103,23 +120,14 @@ content:
           <span>2025.07 ~ 2025.08</span>
         </div>
       </div>
-      <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 2em;">
-        <div>
-          <h4 style="margin: 0 0 0.25em 0;">KT AIVLE School</h4>
-          <p style="margin: 0; font-style: italic;">DX Consultant Track Trainee</p>
-          <p style="margin-top: 0.75em; color: #555;">ntensive training on Digital Transformation (DX) strategies and Data-driven problem solving using Python and statistical analysis.
 
-Cultivated a logical approach to identify process inefficiencies and propose data-backed solutions. Aiming to apply this "Consultant's Mindset" to optimize semiconductor design workflows and systematize verification processes.</p>
-        </div>
-        <div style="text-align: right; min-width: 150px;">
-          <span>2025.07.01 ~ 2025.08.25</span>
-        </div>
-      </div>
       <div style="display: flex; justify-content: space-between; align-items: flex-start;">
         <div>
           <h4 style="margin: 0 0 0.25em 0;">ASIC Design Project</h4>
           <p style="margin: 0; font-style: italic;">Course: 2024 ASIC Design</p>
-          <p style="margin-top: 0.75em; color: #555;">Designed custom digital logic circuits (Inverter, Complex Gates) from schematic to layout using Cadence Virtuoso. Performed full verification flow (DRC, LVS) and analyzed performance degradation via post-layout simulation.</p>
+          <p style="margin-top: 0.75em; color: #555;">
+          Designed custom digital logic circuits (Inverter, Complex Gates) from schematic to layout using <strong>Cadence Virtuoso</strong>. Performed full verification flow (DRC, LVS) and <strong>resolved timing violation issues</strong> by optimizing buffer sizing, analyzing performance degradation via post-layout simulation.
+          </p>
         </div>
         <div style="text-align: right; min-width: 150px;">
           <span>Fall 2024</span>
