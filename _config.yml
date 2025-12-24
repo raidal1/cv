@@ -39,7 +39,7 @@ about_profile_image: /images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Aspiring SoC & FPGA Design Engineer targeting AI Semiconductors.
   
-  Senior in Electronic & Electrical Engineering with a strong focus on Digital Logic Design and ASIC Front-end flow. I have experience in utilizing Verilog HDL for RTL design and FPGA implementation using Xilinx Vivado and Cadence tools. Building on this foundation, I am eager to contribute to developing high-performance AI chips by optimizing hardware architectures for speed and power efficiency. Additionally I possess secondary skills in Python and Machine Learning to support verification automation and data analysis.
+  Senior in Electronic & Electrical Engineering with a strong focus on Digital System Design. I have experience in utilizing Verilog HDL for RTL design and FPGA implementation using Xilinx Vivado and Cadence tools. Building on this foundation, I am eager to contribute to developing high-performance AI chips by optimizing hardware architectures for speed and power efficiency. Additionally I possess secondary skills in Python and Machine Learning to support verification automation and data analysis.
 
 content:
   - title: Education
