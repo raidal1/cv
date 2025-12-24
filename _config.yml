@@ -74,7 +74,8 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       **Programming Language**
-      * Python (Pandas, NumPy, Matplotlib, Scikit-learn, PyTorch)
+      * Verilog HDL : Solid understanding of syntax and RTL coding
+      * Python : Intermediate proficiency with experience in Data Analysis using ML/DL
 
       **EDA & Simulation Tools**
       * Cadence Virtuoso & Xilinx Vivado
@@ -87,7 +88,7 @@ content:
       * OPIC (2025.05.11): AL
 
       **Certificates**
-      * Six Sigma Green Belt (Grade 1)
+      * 6시그마 GB (1급)
       * MOS Word (2021.01.06)
       * MOS Excel (2021.01.05)
 
