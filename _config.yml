@@ -101,8 +101,8 @@ content:
 
       <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 2em;">
         <div>
-          <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">ASIC Design & Optimization Projects</h4>
-          <p style="margin: 0; font-style: italic;">Course: ASIC Design</p>
+        
+          <p style="margin: 0; font-style: italic;"> Major Class : ASIC Design</p>
           <p style="margin-top: 0.75em; color: #555;">
           Led two intensive design projects focusing on performance optimization and architectural efficiency using Cadence Virtuoso.<br><br>
            
@@ -117,7 +117,7 @@ content:
           </p>
         </div>
         <div style="text-align: right; min-width: 170px; font-size: 1.15em;">
-           <span>Fall 2024</span>
+           
         </div>
       </div>
 
