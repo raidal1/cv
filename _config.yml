@@ -97,110 +97,110 @@ content:
   - title: Experience & Professional Training
     layout: text
     content: |
-      <h3 style="margin: 0 0 1em 0; border-bottom: 1px solid #ddd; padding-bottom: 10px; font-size: 1.1em; color: #333;">Key Academic Projects</h3>
+      <h3 style="margin: 0 0 1em 0; border-bottom: 1px solid #ddd; padding-bottom: 10px; font-size: 1.4em; color: #333; font-weight: bold;">Key Academic Projects</h3>
 
       <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 2em;">
         <div>
-          <h4 style="margin: 0 0 0.25em 0;">Chung-ang University major class </h4>
+          <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">ASIC Design & Optimization Projects</h4>
           <p style="margin: 0; font-style: italic;">Course: ASIC Design</p>
           <p style="margin-top: 0.75em; color: #555;">
-          Led two intensive design projects focusing on performance optimization and architectural efficiency using <strong>Cadence Virtuoso</strong>.<br><br>
-          
-          <strong>1. Logic Gate Performance Optimization (Schematic Design)</strong><br>
-          <span style="display:block; margin-left: 10px;">• Designed logic circuits across <strong>180nm & 500nm processes</strong> using different topologies to optimize performance.</span>
-          <span style="display:block; margin-left: 10px;">• <strong>180nm:</strong> Reduced propagation delay (257ps → 155ps) by optimizing logic depth (5-stage → 3-stage).</span>
-          <span style="display:block; margin-left: 10px;">• <strong>500nm:</strong> Designed a <strong>Complex CMOS Gate</strong> to minimize capacitance, achieving drastic delay reduction (599ps → 125ps) and area efficiency.</span><br>
+          Led two intensive design projects focusing on performance optimization and architectural efficiency using Cadence Virtuoso.<br><br>
+           
+          1. Logic Gate Performance Optimization (Schematic Design)<br>
+          <span style="display:block; margin-left: 10px;">• Designed logic circuits across 180nm & 500nm processes using different topologies to optimize performance.</span>
+          <span style="display:block; margin-left: 10px;">• 180nm: Reduced propagation delay (257ps → 155ps) by optimizing logic depth (5-stage → 3-stage).</span>
+          <span style="display:block; margin-left: 10px;">• 500nm: Designed a Complex CMOS Gate to minimize capacitance, achieving drastic delay reduction (599ps → 125ps) and area efficiency.</span><br>
 
-          <strong>2. Pipelined Phase Accumulator (PACC) Design</strong><br>
-          <span style="display:block; margin-left: 10px;">• Designed a <strong>12-bit input, 8-bit output PACC</strong> maximizing speed under power constraints.</span>
-          <span style="display:block; margin-left: 10px;">• Implemented a <strong>3-Stage Pipeline architecture</strong> (Accumulator + D-FF) to enhance throughput and verified via simulations with buffer insertion.</span>
+          2. Pipelined Phase Accumulator (PACC) Design<br>
+          <span style="display:block; margin-left: 10px;">• Designed a 12-bit input, 8-bit output PACC maximizing speed under power constraints.</span>
+          <span style="display:block; margin-left: 10px;">• Implemented a 3-Stage Pipeline architecture (Accumulator + D-FF) to enhance throughput and verified via simulations with buffer insertion.</span>
           </p>
         </div>
-        <div style="text-align: right; min-width: 150px;">
-        
+        <div style="text-align: right; min-width: 170px; font-size: 1.15em;">
+           <span>Fall 2024</span>
         </div>
       </div>
 
-      <h3 style="margin: 2em 0 1em 0; border-bottom: 1px solid #ddd; padding-bottom: 10px; font-size: 1.1em; color: #333;">Specialized Training in Semiconductor Design</h3>
+      <h3 style="margin: 2em 0 1em 0; border-bottom: 1px solid #ddd; padding-bottom: 10px; font-size: 1.4em; color: #333; font-weight: bold;">Specialized Training in Semiconductor Design</h3>
 
       <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1.5em;">
         <div>
-          <h4 style="margin: 0 0 0.25em 0;">HDL Design - Verilog HDL & Vivado Practice</h4>
+          <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">HDL Design - Verilog HDL & Vivado Practice</h4>
           <p style="margin: 0; font-style: italic;">KOCW (Kumoh National Institute of Technology)</p>
-          <p style="margin-top: 0.5em; color: #555;">Strengthened practical skills in <strong>RTL coding (Verilog HDL)</strong> and <strong>FPGA implementation</strong> using Xilinx Vivado.</p>
+          <p style="margin-top: 0.5em; color: #555;">Strengthened practical skills in RTL coding (Verilog HDL) and FPGA implementation using Xilinx Vivado.</p>
         </div>
-        <div style="text-align: right; min-width: 150px;">
+        <div style="text-align: right; min-width: 170px; font-size: 1.15em;">
           <span>2025.09.30 ~ 2025.10.19</span>
         </div>
       </div>
 
       <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1.5em;">
         <div>
-          <h4 style="margin: 0 0 0.25em 0;">Understanding of Semiconductor Design Industry & Technology</h4>
+          <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">Understanding of Semiconductor Design Industry & Technology</h4>
           <p style="margin: 0; font-style: italic;">KSIA (Korea Semiconductor Industry Association)</p>
-          <p style="margin-top: 0.5em; color: #555;">Gained comprehensive understanding of the full ASIC & FPGA design flow, covering <strong>RTL Design, Verification, and DFT</strong>.</p>
+          <p style="margin-top: 0.5em; color: #555;">Gained comprehensive understanding of the full ASIC & FPGA design flow, covering RTL Design, Verification, and DFT.</p>
         </div>
-        <div style="text-align: right; min-width: 150px;">
+        <div style="text-align: right; min-width: 170px; font-size: 1.15em;">
           <span>2025.12.12 ~ 2025.12.19</span>
         </div>
       </div>
 
       <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1.5em;">
         <div>
-          <h4 style="margin: 0 0 0.25em 0;">Practical Digital IP Circuit Design</h4>
+          <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">Practical Digital IP Circuit Design</h4>
           <p style="margin: 0; font-style: italic;">Winspec</p>
-          <p style="margin-top: 0.5em; color: #555;">Acquired practical knowledge in designing reusable <strong>Digital IPs</strong> and understanding industry-standard circuit design flows.</p>
+          <p style="margin-top: 0.5em; color: #555;">Acquired practical knowledge in designing reusable Digital IPs and understanding industry-standard circuit design flows.</p>
         </div>
-        <div style="text-align: right; min-width: 150px;">
+        <div style="text-align: right; min-width: 170px; font-size: 1.15em;">
           <span>2025.11.12 ~ 2025.12.12</span>
         </div>
       </div>
 
       <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1.5em;">
         <div>
-          <h4 style="margin: 0 0 0.25em 0;">AI Semiconductor Application & Utilization</h4>
+          <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">AI Semiconductor Application & Utilization</h4>
           <p style="margin: 0; font-style: italic;">KAIT (Korea Association for ICT Promotion)</p>
-          <p style="margin-top: 0.5em; color: #555;">Explored the latest trends in <strong>AI accelerators (NPU)</strong> and their applications in the semiconductor industry.</p>
+          <p style="margin-top: 0.5em; color: #555;">Explored the latest trends in AI accelerators (NPU) and their applications in the semiconductor industry.</p>
         </div>
-        <div style="text-align: right; min-width: 150px;">
+        <div style="text-align: right; min-width: 170px; font-size: 1.15em;">
           <span>2025.11.10 ~ 2025.11.12</span>
         </div>
       </div>
 
       <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 2em;">
         <div>
-          <h4 style="margin: 0 0 0.25em 0;">SRAM & MRAM Design</h4>
+          <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">SRAM & MRAM Design</h4>
           <p style="margin: 0; font-style: italic;">IDEC (Semiconductor Design Education Center)</p>
-          <p style="margin-top: 0.5em; color: #555;">Analyzed memory architectures and design constraints for high-speed <strong>SRAM & MRAM</strong> technology.</p>
+          <p style="margin-top: 0.5em; color: #555;">Analyzed memory architectures and design constraints for high-speed SRAM & MRAM technology.</p>
         </div>
-        <div style="text-align: right; min-width: 150px;">
+        <div style="text-align: right; min-width: 170px; font-size: 1.15em;">
           <span>2025.10.23 ~ 2025.10.27</span>
         </div>
       </div>
 
-      <h3 style="margin: 2em 0 1em 0; border-bottom: 1px solid #ddd; padding-bottom: 10px; font-size: 1.1em; color: #333;">Other Experience</h3>
+      <h3 style="margin: 2em 0 1em 0; border-bottom: 1px solid #ddd; padding-bottom: 10px; font-size: 1.4em; color: #333; font-weight: bold;">Other Experience</h3>
 
       <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 2em;">
         <div>
-          <h4 style="margin: 0 0 0.25em 0;">FEM (Frontier Electrical Machine) Lab</h4>
+          <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">FEM (Frontier Electrical Machine) Lab</h4>
           <p style="margin: 0; font-style: italic;">Undergraduate Research Student</p>
           <p style="margin-top: 0.75em; color: #555;">Researched modeling and control simulations for next-generation electrical machines (motors).</p>
         </div>
-        <div style="text-align: right; min-width: 150px;">
+        <div style="text-align: right; min-width: 170px; font-size: 1.15em;">
           <span>2025.07 ~ 2025.08</span>
         </div>
       </div>
 
       <div style="display: flex; justify-content: space-between; align-items: flex-start;">
         <div>
-          <h4 style="margin: 0 0 0.25em 0;">KT AIVLE School</h4>
+          <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">KT AIVLE School</h4>
           <p style="margin: 0; font-style: italic;">DX Consultant Track Trainee</p>
           <p style="margin-top: 0.75em; color: #555;">
-          Acquired practical data analysis skills using <strong>Python (Pandas, NumPy)</strong> and implemented <strong>Machine Learning & Deep Learning</strong> models to solve industrial problems.<br><br>
-          Cultivated a <strong>DX (Digital Transformation) mindset</strong> to identify inefficiencies and propose <strong>data-driven solutions</strong>, aiming to apply these analytical skills to <strong>optimize semiconductor design workflows</strong>.
+          Acquired practical data analysis skills using Python (Pandas, NumPy) and implemented Machine Learning & Deep Learning models to solve industrial problems.<br><br>
+          Cultivated a DX (Digital Transformation) mindset to identify inefficiencies and propose data-driven solutions, aiming to apply these analytical skills to optimize semiconductor design workflows.
           </p>
         </div>
-        <div style="text-align: right; min-width: 150px;">
+        <div style="text-align: right; min-width: 170px; font-size: 1.15em;">
           <span>2025.09 ~ Present</span>
         </div>
       </div>
