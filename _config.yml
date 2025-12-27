@@ -127,7 +127,7 @@ content:
         <div>
           <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">Intelligent Semiconductor Tech for Efficient AI Computing</h4>
           <p style="margin: 0; font-style: italic;">K-MOOC (POSTECH)</p>
-          [cite_start]<p style="margin-top: 0.5em; color: #555;">Completed an advanced course on <strong>AI Accelerators (NPU, GPU)</strong> and <strong>Processing-in-Memory (PIM)</strong> using emerging devices (RRAM, MRAM, FeFET). Studied Neuromorphic architectures and Spiking Neural Networks (SNN)[cite: 9, 11, 21].</p>
+          <p style="margin-top: 0.5em; color: #555;">Completed an advanced course on AI Accelerators (NPU, GPU) and Processing-in-Memory (PIM) using emerging devices (RRAM, MRAM, FeFET). Studied Neuromorphic architectures and Spiking Neural Networks (SNN).</p>
         </div>
         <div style="text-align: right; min-width: 170px; font-size: 1.15em;">
           <span>2025.12.27</span>
@@ -167,7 +167,7 @@ content:
         </div>
       </div>
 
-      <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1.5em;">
+      <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 2em;">
         <div>
           <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">SRAM & MRAM Design</h4>
           <p style="margin: 0; font-style: italic;">IDEC (Semiconductor Design Education Center)</p>
@@ -193,12 +193,22 @@ content:
 
       <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 2em;">
         <div>
-          <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">FEM (Frontier Electrical Machine) Lab</h4>
-          <p style="margin: 0; font-style: italic;">Undergraduate Research Student</p>
-          <p style="margin-top: 0.75em; color: #555;">Researched modeling and control simulations for next-generation electrical machines (motors).</p>
+          <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">2025 Summer Pre-Undergraduate Researcher (FEM Lab)</h4>
+          <p style="margin: 0; font-style: italic;">Chung-Ang University</p>
+          <p style="margin-top: 0.75em; color: #555;">
+          Completed an 80-hour intensive research program focusing on motor control theory and ANSYS simulation.<br><br>
+           
+          1. Advanced Major Study & Seminar Presentation<br>
+          <span style="display:block; margin-left: 10px;">• Analyzed motor driving principles and control techniques (PWM, coordinate transformation) through self-study of 'Motor Control' and 'Brushless Permanent Magnet Motor Design'.</span>
+          <span style="display:block; margin-left: 10px;">• Presented weekly study summaries at lab seminars and validated theoretical understanding through graduate mentoring.</span><br>
+
+          2. ANSYS Basic Analysis Practice<br>
+          <span style="display:block; margin-left: 10px;">• Modeled BLDC motor geometries and conducted basic electromagnetic field analysis using ANSYS Electronics (Maxwell).</span>
+          <span style="display:block; margin-left: 10px;">• Gained proficiency in simulation workflows, including mesh generation and material assignment.</span>
+          </p>
         </div>
         <div style="text-align: right; min-width: 170px; font-size: 1.15em;">
-          <span>2025.07 ~ 2025.08</span>
+          <span>2025.06 ~ 2025.08</span>
         </div>
       </div>
 
