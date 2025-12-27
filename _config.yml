@@ -101,8 +101,8 @@ content:
 
       <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 2em;">
         <div>
-        
-          <p style="margin: 0; font-style: italic;"> Major Class : ASIC Design</p>
+          <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">ASIC Design & Optimization Projects</h4>
+          <p style="margin: 0; font-style: italic;">Course: ASIC Design</p>
           <p style="margin-top: 0.75em; color: #555;">
           Led two intensive design projects focusing on performance optimization and architectural efficiency using Cadence Virtuoso.<br><br>
            
@@ -117,7 +117,7 @@ content:
           </p>
         </div>
         <div style="text-align: right; min-width: 170px; font-size: 1.15em;">
-           
+           <span>Fall 2024</span>
         </div>
       </div>
 
@@ -125,12 +125,12 @@ content:
 
       <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1.5em;">
         <div>
-          <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">HDL Design - Verilog HDL & Vivado Practice</h4>
-          <p style="margin: 0; font-style: italic;">KOCW (Kumoh National Institute of Technology)</p>
-          <p style="margin-top: 0.5em; color: #555;">Strengthened practical skills in RTL coding (Verilog HDL) and FPGA implementation using Xilinx Vivado.</p>
+          <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">Intelligent Semiconductor Tech for Efficient AI Computing</h4>
+          <p style="margin: 0; font-style: italic;">K-MOOC (POSTECH)</p>
+          [cite_start]<p style="margin-top: 0.5em; color: #555;">Completed an advanced course on <strong>AI Accelerators (NPU, GPU)</strong> and <strong>Processing-in-Memory (PIM)</strong> using emerging devices (RRAM, MRAM, FeFET). Studied Neuromorphic architectures and Spiking Neural Networks (SNN)[cite: 9, 11, 21].</p>
         </div>
         <div style="text-align: right; min-width: 170px; font-size: 1.15em;">
-          <span>2025.09.30 ~ 2025.10.19</span>
+          <span>2025.12.27</span>
         </div>
       </div>
 
@@ -167,7 +167,7 @@ content:
         </div>
       </div>
 
-      <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 2em;">
+      <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1.5em;">
         <div>
           <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">SRAM & MRAM Design</h4>
           <p style="margin: 0; font-style: italic;">IDEC (Semiconductor Design Education Center)</p>
@@ -175,6 +175,17 @@ content:
         </div>
         <div style="text-align: right; min-width: 170px; font-size: 1.15em;">
           <span>2025.10.23 ~ 2025.10.27</span>
+        </div>
+      </div>
+
+      <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 2em;">
+        <div>
+          <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">HDL Design - Verilog HDL & Vivado Practice</h4>
+          <p style="margin: 0; font-style: italic;">KOCW (Kumoh National Institute of Technology)</p>
+          <p style="margin-top: 0.5em; color: #555;">Strengthened practical skills in RTL coding (Verilog HDL) and FPGA implementation using Xilinx Vivado.</p>
+        </div>
+        <div style="text-align: right; min-width: 170px; font-size: 1.15em;">
+          <span>2025.09.30 ~ 2025.10.19</span>
         </div>
       </div>
 
