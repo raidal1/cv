@@ -159,7 +159,7 @@ content:
       <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1.5em;">
         <div>
           <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">AI 반도체 활용 응용 교육</h4>
-          <p style="margin: 0; font-style: italic;">한국정보통신진흥협회</p>
+          <p style="margin: 0; font-style: italic;">AI Chip 플랫폼 X</p>
           <p style="margin-top: 0.5em; color: #555;">Explored the latest trends in AI accelerators (NPU) and their applications in the semiconductor industry.</p>
         </div>
         <div style="text-align: right; min-width: 170px; font-size: 1.15em;">
