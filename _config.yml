@@ -125,8 +125,8 @@ content:
 
       <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1.5em;">
         <div>
-          <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">Intelligent Semiconductor Tech for Efficient AI Computing</h4>
-          <p style="margin: 0; font-style: italic;">K-MOOC (POSTECH)</p>
+          <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">효율적인 인공지능 연산을 위한 지능형 반도체 기술</h4>
+          <p style="margin: 0; font-style: italic;">K-MOOC 강좌 (포항공과대학교 정윤영 교수님)</p>
           <p style="margin-top: 0.5em; color: #555;">Completed an advanced course on AI Accelerators (NPU, GPU) and Processing-in-Memory (PIM) using emerging devices (RRAM, MRAM, FeFET). Studied Neuromorphic architectures and Spiking Neural Networks (SNN).</p>
         </div>
         <div style="text-align: right; min-width: 170px; font-size: 1.15em;">
@@ -136,8 +136,8 @@ content:
 
       <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1.5em;">
         <div>
-          <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">Understanding of Semiconductor Design Industry & Technology</h4>
-          <p style="margin: 0; font-style: italic;">KSIA (Korea Semiconductor Industry Association)</p>
+          <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">반도체 설계 산업 및 기술의 이해</h4>
+          <p style="margin: 0; font-style: italic;">한국반도체아카데미</p>
           <p style="margin-top: 0.5em; color: #555;">Gained comprehensive understanding of the full ASIC & FPGA design flow, covering RTL Design, Verification, and DFT.</p>
         </div>
         <div style="text-align: right; min-width: 170px; font-size: 1.15em;">
@@ -147,8 +147,8 @@ content:
 
       <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1.5em;">
         <div>
-          <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">Practical Digital IP Circuit Design</h4>
-          <p style="margin: 0; font-style: italic;">Winspec</p>
+          <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">쉽게 따라하는 반도체 디지털IP회로설계 실무과정</h4>
+          <p style="margin: 0; font-style: italic;">윈스펙 국민내일배움카드 온라인 강좌</p>
           <p style="margin-top: 0.5em; color: #555;">Acquired practical knowledge in designing reusable Digital IPs and understanding industry-standard circuit design flows.</p>
         </div>
         <div style="text-align: right; min-width: 170px; font-size: 1.15em;">
@@ -158,8 +158,8 @@ content:
 
       <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1.5em;">
         <div>
-          <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">AI Semiconductor Application & Utilization</h4>
-          <p style="margin: 0; font-style: italic;">KAIT (Korea Association for ICT Promotion)</p>
+          <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">AI 반도체 활용 응용 교육</h4>
+          <p style="margin: 0; font-style: italic;">한국정보통신진흥협회</p>
           <p style="margin-top: 0.5em; color: #555;">Explored the latest trends in AI accelerators (NPU) and their applications in the semiconductor industry.</p>
         </div>
         <div style="text-align: right; min-width: 170px; font-size: 1.15em;">
@@ -170,7 +170,7 @@ content:
       <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 2em;">
         <div>
           <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">SRAM & MRAM Design</h4>
-          <p style="margin: 0; font-style: italic;">IDEC (Semiconductor Design Education Center)</p>
+          <p style="margin: 0; font-style: italic;">KAIST IDEC 단기 교육</p>
           <p style="margin-top: 0.5em; color: #555;">Analyzed memory architectures and design constraints for high-speed SRAM & MRAM technology.</p>
         </div>
         <div style="text-align: right; min-width: 170px; font-size: 1.15em;">
@@ -181,7 +181,7 @@ content:
       <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 2em;">
         <div>
           <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">HDL Design - Verilog HDL & Vivado Practice</h4>
-          <p style="margin: 0; font-style: italic;">KOCW (Kumoh National Institute of Technology)</p>
+          <p style="margin: 0; font-style: italic;">KOCW 온라인 강좌(금오공과대학교 신경욱 교수님)</p>
           <p style="margin-top: 0.5em; color: #555;">Strengthened practical skills in RTL coding (Verilog HDL) and FPGA implementation using Xilinx Vivado.</p>
         </div>
         <div style="text-align: right; min-width: 170px; font-size: 1.15em;">
@@ -193,8 +193,8 @@ content:
 
       <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 2em;">
         <div>
-          <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">2025 Summer Pre-Undergraduate Researcher (FEM Lab)</h4>
-          <p style="margin: 0; font-style: italic;">Chung-Ang University</p>
+          <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">2025 PRE(Practical & Research Engagement) program </h4>
+          <p style="margin: 0; font-style: italic;">Chung-Ang University Fem Lab(노종석 교수님)</p>
           <p style="margin-top: 0.75em; color: #555;">
           Completed an 80-hour intensive research program focusing on motor control theory and ANSYS simulation.<br><br>
            
@@ -214,8 +214,8 @@ content:
 
       <div style="display: flex; justify-content: space-between; align-items: flex-start;">
         <div>
-          <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">KT AIVLE School</h4>
-          <p style="margin: 0; font-style: italic;">DX Consultant Track Trainee</p>
+          <h4 style="margin: 0 0 0.25em 0; font-weight: bold;">KT AIVLE School(DX)</h4>
+          <p style="margin: 0; font-style: italic;">국민내일배움카드 K-Digital Training</p>
           <p style="margin-top: 0.75em; color: #555;">
           Acquired practical data analysis skills using Python (Pandas, NumPy) and implemented Machine Learning & Deep Learning models to solve industrial problems.<br><br>
           Cultivated a DX (Digital Transformation) mindset to identify inefficiencies and propose data-driven solutions, aiming to apply these analytical skills to optimize semiconductor design workflows.
