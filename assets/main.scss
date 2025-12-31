@@ -8,29 +8,3 @@ h2.section-title {
   color: #0d6efd !important;
 }
 
-@media print {
-  /* 1. 잉크 절약 모드 강제 해제 */
-  body {
-    -webkit-print-color-adjust: exact !important;
-    print-color-adjust: exact !important;
-  }
-
-  /* 2. 사이드바와 이미지를 감싸는 모든 요소를 강제로 보이게 함 */
-  .wrapper, .sidebar-wrapper, .sidebar, .profile-container, .profile-img, img {
-    display: block !important;
-    visibility: visible !important;
-    opacity: 1 !important;
-  }
-  
-  /* 3. 사이드바 배경색이 흰색으로 날아가는 것 방지 (원하는 색상으로 변경 가능) */
-  .sidebar-wrapper {
-    background-color: #f0f2f5 !important; /* 연한 회색 */
-    color: #000 !important; /* 글자색 검정 */
-  }
-  
-  /* 4. 레이아웃 깨짐 방지 */
-  .wrapper {
-    display: flex !important;
-    flex-direction: row !important;
-  }
-}
