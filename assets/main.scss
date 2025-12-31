@@ -7,3 +7,29 @@
 h2.section-title {
   color: #0d6efd !important;
 }
+
+@media print {
+  /* 1. 배경 색상 및 그래픽 강제 출력 설정 */
+  body {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  /* 2. 숨겨진 사이드바 및 이미지 강제 표시 */
+  /* modern-resume-theme에서 주로 사용하는 클래스명들을 모두 타겟팅합니다 */
+  .sidebar-wrapper, 
+  .profile-container, 
+  .profile-img, 
+  img {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+  }
+
+  /* 3. 혹시 사이드바 배경색이 날아간다면 아래 주석을 풀고 색상을 지정하세요 */
+  /*
+  .sidebar-wrapper {
+    background-color: #424242 !important; 
+  }
+  */
+}
