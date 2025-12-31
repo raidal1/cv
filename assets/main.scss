@@ -9,27 +9,28 @@ h2.section-title {
 }
 
 @media print {
-  /* 1. 배경 색상 및 그래픽 강제 출력 설정 */
+  /* 1. 잉크 절약 모드 강제 해제 */
   body {
     -webkit-print-color-adjust: exact !important;
     print-color-adjust: exact !important;
   }
 
-  /* 2. 숨겨진 사이드바 및 이미지 강제 표시 */
-  /* modern-resume-theme에서 주로 사용하는 클래스명들을 모두 타겟팅합니다 */
-  .sidebar-wrapper, 
-  .profile-container, 
-  .profile-img, 
-  img {
+  /* 2. 사이드바와 이미지를 감싸는 모든 요소를 강제로 보이게 함 */
+  .wrapper, .sidebar-wrapper, .sidebar, .profile-container, .profile-img, img {
     display: block !important;
     visibility: visible !important;
     opacity: 1 !important;
   }
-
-  /* 3. 혹시 사이드바 배경색이 날아간다면 아래 주석을 풀고 색상을 지정하세요 */
-  /*
+  
+  /* 3. 사이드바 배경색이 흰색으로 날아가는 것 방지 (원하는 색상으로 변경 가능) */
   .sidebar-wrapper {
-    background-color: #424242 !important; 
+    background-color: #f0f2f5 !important; /* 연한 회색 */
+    color: #000 !important; /* 글자색 검정 */
   }
-  */
+  
+  /* 4. 레이아웃 깨짐 방지 */
+  .wrapper {
+    display: flex !important;
+    flex-direction: row !important;
+  }
 }
