@@ -1,7 +1,3 @@
-<img src="/images/profile.jpg"
-     alt="Profile photo"
-     style="width:120px; border-radius:50%; margin-bottom:1em;">
-
 # Site
 repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
