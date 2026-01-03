@@ -1,10 +1,36 @@
----
----
-
 @import "modern-resume-theme";
 
-// ===== Final Style Override Code ===== //
 h2.section-title {
   color: #0d6efd !important;
 }
 
+/* ▼ 인쇄할 때만 작동하는 마법의 코드 ▼ */
+@media print {
+  /* 1. 배경 그래픽 강제 활성화 */
+  body {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  /* 2. 사진이 들어갈 박스를 찾아서 강제로 '이미지'로 바꿔치기 */
+  .profile-container {
+    display: block !important;
+    visibility: visible !important;
+    
+    /* ▼▼▼ 여기가 핵심! (본인 사진 경로로 수정하세요) ▼▼▼ */
+    /* 사진 파일명을 정확히 적어야 합니다 (예: profile.jpg, profile.png) */
+    content: url("/cv/blob/master/images/profile.jpg") !important; 
+    
+    /* 3. 사진 크기 예쁘게 고정 (깨짐 방지) */
+    width: 130px !important;
+    height: 130px !important;
+    margin: 0 auto 10px auto !important; /* 가운데 정렬 */
+    border-radius: 50% !important; /* 동그랗게 */
+  }
+
+  /* 4. 사이드바 배경색 살리기 */
+  .sidebar-wrapper {
+    background-color: #f7f7f7 !important; /* 아주 연한 회색 */
+    -webkit-print-color-adjust: exact !important;
+  }
+}
